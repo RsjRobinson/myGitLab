@@ -1,3 +1,3 @@
 # myGitLab
 
-This is the coolest project!
+This is by far the coolest project!
